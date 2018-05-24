@@ -1,6 +1,30 @@
 # MyNgx6
 
+Example of how to consume `ngx-cbp-theme` version >=6.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+
+## Steps for recreating this project
+
+Steps describing how this project was generated.
+
+### Install Angular CLI 6 Globally
+```bash
+npm install @angular/cli -g
+```
+
+### Create a new Angular App
+```bash
+ng new my-ngx6 -styles scss --prefix ngx6
+```
+
+### Install Required packages 
+```bash
+npm install @angular/material@6.1.0 @angular/cdk@6.1.0  @angular/flex-layout@6.0.0-beta.15 rxjs-compat@6.1.0  ngx-cbp-theme@6.0.2
+ --save
+```
+
+
 
 ## Development server
 
