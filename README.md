@@ -20,11 +20,13 @@ ng new my-ngx6 -styles scss --prefix ngx6
 
 ### Install Required packages 
 ```bash
-npm install @angular/material@6.1.0 @angular/cdk@6.1.0  @angular/flex-layout@6.0.0-beta.15 rxjs-compat@6.1.0  ngx-cbp-theme@6.0.2
- --save
+npm install @angular/material@6.1.0 @angular/cdk@6.1.0  @angular/flex-layout@6.0.0-beta.15 --save
 ```
 
-
+### Migrate Material 5 to 6 
+```bash
+ng update @angular/material --migrate-only --from 5.0.3 --to 6.2.0
+``` 
 
 ## Development server
 

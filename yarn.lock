@@ -97,7 +97,13 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/cdk@6.1.0", "@angular/cdk@^6.1.0":
+"@angular/cdk@^6.0.0":
+  version "6.0.0"
+  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/cdk/-/cdk-6.0.0.tgz?dl=https://registry.yarnpkg.com/@angular/cdk/-/cdk-6.0.0.tgz#0e1736eca8900ce1c4e66699d09e91d4ce151f56"
+  dependencies:
+    tslib "^1.7.1"
+
+"@angular/cdk@^6.1.0":
   version "6.1.0"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/cdk/-/cdk-6.1.0.tgz?dl=https://registry.yarnpkg.com/@angular/cdk/-/cdk-6.1.0.tgz#14ae46730315d40b5a642daa8f5f80815930085c"
   dependencies:
@@ -169,7 +175,13 @@
   version "6.0.3"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/language-service/-/language-service-6.0.3.tgz?dl=https://registry.yarnpkg.com/@angular/language-service/-/language-service-6.0.3.tgz#7182f3824520fd5f5f6173fdee80284356d29d08"
 
-"@angular/material@6.1.0", "@angular/material@^6.1.0":
+"@angular/material@^6.0.0":
+  version "6.0.0"
+  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/material/-/material-6.0.0.tgz?dl=https://registry.yarnpkg.com/@angular/material/-/material-6.0.0.tgz#9704ced8ba2eca59b04c6c6ed032a1f36f685667"
+  dependencies:
+    tslib "^1.7.1"
+
+"@angular/material@^6.1.0":
   version "6.1.0"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/material/-/material-6.1.0.tgz?dl=https://registry.yarnpkg.com/@angular/material/-/material-6.1.0.tgz#c13f4fb38ae6f52c7c49cd8d3ae4baca4abd36ab"
   dependencies:
@@ -5972,9 +5984,9 @@ trim-right@^1.0.1:
   dependencies:
     glob "^6.0.4"
 
-ts-node@~5.0.1:
-  version "5.0.1"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/ts-node/-/ts-node-5.0.1.tgz?dl=https://registry.yarnpkg.com/ts-node/-/ts-node-5.0.1.tgz#78e5d1cb3f704de1b641e43b76be2d4094f06f81"
+ts-node@^6.0.5:
+  version "6.0.5"
+  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/ts-node/-/ts-node-6.0.5.tgz?dl=https://registry.yarnpkg.com/ts-node/-/ts-node-6.0.5.tgz#977c1c931da7a2b09ae2930101f0104a5c2271e9"
   dependencies:
     arrify "^1.0.0"
     chalk "^2.3.0"
