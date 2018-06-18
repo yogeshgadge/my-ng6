@@ -24,9 +24,13 @@
     "@angular/router": "^6.0.2",
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.5.4",
+    "ngx-cbp-theme": "^6.0.7",
     "rxjs": "^6.0.0",
     "rxjs-compat": "6.1.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.8.26",
+    "@angular/cdk": "^6",
+    "@angular/material": "^6",
+    "@angular/flex-layout": "6.0.0-beta.15"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.3",
