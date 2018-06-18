@@ -97,18 +97,6 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/cdk@^6.0.0":
-  version "6.0.0"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/cdk/-/cdk-6.0.0.tgz?dl=https://registry.yarnpkg.com/@angular/cdk/-/cdk-6.0.0.tgz#0e1736eca8900ce1c4e66699d09e91d4ce151f56"
-  dependencies:
-    tslib "^1.7.1"
-
-"@angular/cdk@^6.1.0":
-  version "6.1.0"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/cdk/-/cdk-6.1.0.tgz?dl=https://registry.yarnpkg.com/@angular/cdk/-/cdk-6.1.0.tgz#14ae46730315d40b5a642daa8f5f80815930085c"
-  dependencies:
-    tslib "^1.7.1"
-
 "@angular/cli@~6.0.3":
   version "6.0.3"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/cli/-/cli-6.0.3.tgz?dl=https://registry.yarnpkg.com/@angular/cli/-/cli-6.0.3.tgz#a7a2defdaa2a9f2914aadb7e0a25d9a43d8346c4"
@@ -153,12 +141,6 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/flex-layout@6.0.0-beta.15":
-  version "6.0.0-beta.15"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/flex-layout/-/flex-layout-6.0.0-beta.15.tgz?dl=https://registry.yarnpkg.com/@angular/flex-layout/-/flex-layout-6.0.0-beta.15.tgz#9e85e9292286941973c7e6cdec02990d5fd6ec15"
-  dependencies:
-    tslib "^1.7.1"
-
 "@angular/forms@^6.0.2":
   version "6.0.3"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/forms/-/forms-6.0.3.tgz?dl=https://registry.yarnpkg.com/@angular/forms/-/forms-6.0.3.tgz#57328c9ec0ddf4ae7823ec807315501813c22752"
@@ -174,18 +156,6 @@
 "@angular/language-service@^6.0.2":
   version "6.0.3"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/language-service/-/language-service-6.0.3.tgz?dl=https://registry.yarnpkg.com/@angular/language-service/-/language-service-6.0.3.tgz#7182f3824520fd5f5f6173fdee80284356d29d08"
-
-"@angular/material@^6.0.0":
-  version "6.0.0"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/material/-/material-6.0.0.tgz?dl=https://registry.yarnpkg.com/@angular/material/-/material-6.0.0.tgz#9704ced8ba2eca59b04c6c6ed032a1f36f685667"
-  dependencies:
-    tslib "^1.7.1"
-
-"@angular/material@^6.1.0":
-  version "6.1.0"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/@angular/material/-/material-6.1.0.tgz?dl=https://registry.yarnpkg.com/@angular/material/-/material-6.1.0.tgz#c13f4fb38ae6f52c7c49cd8d3ae4baca4abd36ab"
-  dependencies:
-    tslib "^1.7.1"
 
 "@angular/platform-browser-dynamic@^6.0.2":
   version "6.0.3"
@@ -4062,18 +4032,14 @@ next-tick@1:
   version "1.0.0"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/next-tick/-/next-tick-1.0.0.tgz?dl=https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-ngx-cbp-theme@6.0.2:
-  version "6.0.2"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/ngx-cbp-theme/-/ngx-cbp-theme-6.0.2.tgz?dl=https://registry.yarnpkg.com/ngx-cbp-theme/-/ngx-cbp-theme-6.0.2.tgz#da3a5ea3465beb849d0fde301bc8be504771cba9"
+ngx-cbp-theme@^6.0.6:
+  version "6.0.6"
+  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/ngx-cbp-theme/-/ngx-cbp-theme-6.0.6.tgz?dl=https://registry.yarnpkg.com/ngx-cbp-theme/-/ngx-cbp-theme-6.0.6.tgz#98b9c53a4c4d26d4dfe52256257f198dd9955f5c"
   dependencies:
-    "@angular/cdk" "^6.1.0"
-    "@angular/flex-layout" "6.0.0-beta.15"
-    "@angular/material" "^6.1.0"
     cbp-theme "1.9.0"
     classlist.js "1.1.20150312"
     del "^3.0.0"
     replace "^1.0.0"
-    rxjs-compat "^6.1.0"
     tslib "^1.9.0"
     web-animations-js "^2.3.1"
 
@@ -5182,10 +5148,6 @@ rxjs-compat@6.1.0:
   version "6.1.0"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/rxjs-compat/-/rxjs-compat-6.1.0.tgz?dl=https://registry.yarnpkg.com/rxjs-compat/-/rxjs-compat-6.1.0.tgz#935059623ee4c167728c9dd03ee6e4468cc5b583"
 
-rxjs-compat@^6.1.0:
-  version "6.2.0"
-  resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/rxjs-compat/-/rxjs-compat-6.2.0.tgz?dl=https://registry.yarnpkg.com/rxjs-compat/-/rxjs-compat-6.2.0.tgz#2eb49cc6ac20d0d7057c6887d1895beaab0966f9"
-
 rxjs@^6.0.0:
   version "6.2.0"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/rxjs/-/rxjs-6.2.0.tgz?dl=https://registry.yarnpkg.com/rxjs/-/rxjs-6.2.0.tgz#e024d0e180b72756a83c2aaea8f25423751ba978"
@@ -6006,7 +5968,7 @@ tsickle@^0.27.2:
     source-map "^0.6.0"
     source-map-support "^0.5.0"
 
-tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
+tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.9.1"
   resolved "https://artifactory.cbp.dhs.gov:443/artifactory/api/npm/npm/tslib/-/tslib-1.9.1.tgz?dl=https://registry.yarnpkg.com/tslib/-/tslib-1.9.1.tgz#a5d1f0532a49221c87755cfcc89ca37197242ba7"
 
